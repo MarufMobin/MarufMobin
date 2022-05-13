@@ -21,6 +21,4 @@ Skills: REACT / JS / HTML / CSS/PHP/React Native/Node js
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marufmobin&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=marufmobin)  
-
 ![Profile views](https://gpvc.arturio.dev/marufmobin)  
